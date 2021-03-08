@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: rgb(88, 14, 88);
+    font-style: verdana;
+    text-align: center;
+    text-decoration:underline;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: rgb(88, 14, 88);
+    font-style: verdana;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration:underline;
+}
+p{
+    text-align: center;
+    text-indent: 12px;
+    color:rgb(88, 14, 88);
+    font-style: Helvetica;
+    font-weight: bolder;
+    text-decoration:underline;
+}
+body { background-image: url("https://yata-apix-0637f571-8e84-404f-9cbc-7b90dd41e47c.lss.locawebcorp.com.br/61e62253f7894890891033b8ba475da4.png")}

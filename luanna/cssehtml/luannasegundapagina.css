@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: rgb(88, 14, 88);
+    font-style: verdana;
+    text-align: center;
+    text-decoration:underline;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: rgb(88, 14, 88);
+    font-style: verdana;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration:underline;
+}
+p{
+    text-align: center;
+    text-indent: 18px;
+    color:rgb(88, 14, 88);
+    font-style: Verdana;
+    font-weight: bolder;
+    text-decoration:underline;
+}
+body { background-image: url("https://i.pinimg.com/564x/70/b1/df/70b1df070ec1be06874937207f8a977f.jpg")}
